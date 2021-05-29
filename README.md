@@ -12,4 +12,5 @@ I used Power BI instead of python here as visualization is much more easy, inter
 
 
 I also wrote my first ever blog, explaining the visualization steps.
+
 [The link to 'F.R.I.E.N.D.S. Analysis Using Power BI' blog](https://friendsedapowerbi.blogspot.com/2021/05/friends-analysis-using-power-bi.html)
